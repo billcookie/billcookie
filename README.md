@@ -1,6 +1,6 @@
 ### Hi I'm Bill! 🙂
 
-I am an aspiring fullstack developer in Tokyo! 
+I am a fullstack developer in Tokyo! 
 
 
 
