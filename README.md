@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Wantedly-blue?style=for-the-badge&logo=wantedly&logoColor=white" alt="Wantedly Badge"/>
   </a>
 </div>
-I am a fullstack developer in Tokyo 🇯🇵! I love creating new apps and trying out new tech. If you want to chat over a coffee ☕️ or zoom 💬. Please feel free to contact me!
+I am a fullstack developer in Tokyo 🇯🇵! I love creating new apps and trying out new tech. If you want to chat over a coffee ☕️ or zoom 💬. Please feel free to contact me! See you around! 👋
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -31,6 +31,12 @@ I am a fullstack developer in Tokyo 🇯🇵! I love creating new apps and tryin
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku"  alt="Heroku" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=billcookie&theme=slateorange&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=billcookie&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
