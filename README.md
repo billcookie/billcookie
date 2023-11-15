@@ -35,13 +35,15 @@ I am a fullstack developer in Tokyo 🇯🇵! I love creating new apps and tryin
 </div>
 
 
+<!--
 ### :fire: My Stats :
+-->
 <!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=billcookie&theme=slateorange&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
 -->
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=billcookie&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 <!--
 **billcookie/billcookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
