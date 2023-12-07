@@ -12,7 +12,7 @@
 </div>
 I am a fullstack developer in Tokyo 🇯🇵! I love creating new apps and trying out new tech. If you want to chat over a coffee ☕️ or zoom 💬. Please feel free to contact me! See you around! 👋
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 <div>
 
