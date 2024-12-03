@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Wantedly-blue?style=for-the-badge&logo=wantedly&logoColor=white" alt="Wantedly Badge"/>
   </a>
 </div>
-I am a fullstack developer in Tokyo 🇯🇵 with over two years experience! I love creating new apps and trying out new tech. If you want to chat over a coffee ☕️ or zoom 💬. Please feel free to contact me! See you around! 👋
+I am a software engineer in Tokyo 🇯🇵 with over two years experience! I love creating new apps and trying out new tech. If you want to chat over a coffee ☕️ or zoom 💬. Please feel free to contact me! See you around! 👋
 
 ### Languages and Tools :
 
